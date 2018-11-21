@@ -1,5 +1,5 @@
 name: Github Gist
-version: 1.0.0
+version: 1.0.1
 description: "GitHub Gist plugin will embed a GitHub Gist into the page."
 author:
   name: Sergey Romanenko
@@ -8,6 +8,3 @@ author:
 homepage: https://github.com/flextype-plugins/github-gist
 bugs: https://github.com/flextype-plugins/github-gist/issues
 license: MIT
-
-# Plugin settings
-enabled: true
